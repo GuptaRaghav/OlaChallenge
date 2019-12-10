@@ -82,4 +82,4 @@ Developed this app in Ola Play studio hackathon organised by Ola in association 
    }
 ]
    ``` 
-7. [APK](https://github.com/GuptaRaghav/OlaChallenge/blob/master/app-debug.apk)
+7. [APK](https://github.com/GuptaRaghav/OlaChallenge/blob/master/Demo.apk)
