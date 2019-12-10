@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OlaChallenge</string>
+    <string name="data_loading">"Loading Songs List"</string>
+    <string name="playstudioAPI">"http://starlord.hackerearth.com/studio"</string>
+    <!--Menu Opitons-->
+    <string name="menu_home">Home</string>
+    <string name="menu_bestsong">Best Studio Songs</string>
+    <string name="menu_playlist">"View PlayList"</string>
+    <string name="menu_portfolio">PortFolio</string>
+    <!--AlertDialogue-->
+    <string name="alertDialog_Message">First Add music from playlist and then try again</string>
+    <string name="okbtn">Ok</string>
+    <string name="playlistAdded">Track added to playlist</string>
+
+    <!--Title-->
+    <string name="title_Playlist">PlayList</string>
+
+    <!--Download Toasts-->
+    <string name="downloadStarted">Download Started</string>
+    <string name="downloadCompleted">Download Completed</string>
+    <!--Portfolio Message-->
+    <string name="portfolioMessage">Hey! Check out my amazing application available on play store</string>
+    <string name="portfolioURL">https://play.google.com/store/apps/details?id=com.pandalhopper.esri.durgapuja</string>
+</resources>
