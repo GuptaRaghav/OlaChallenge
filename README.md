@@ -3,17 +3,16 @@ Developed this app in Ola Play studio hackathon organised by Ola in association 
 
 1. Search Bar searches song based on keyword entered
 
- ![Alt Text](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/sorting.gif)
+ ![Alt Text](https://github.com/GuptaRaghav/OlaChallenge/blob/master/olasearch.gif)
  
 2. On clicking a particular song , the song starts playing.
 3. It can be paused by pressing pause button on bottom bar.
 
- ![Alt Text](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/filter.gif)
+ ![Alt Text](https://github.com/GuptaRaghav/OlaChallenge/blob/master/olasongplaying.gif)
 
 4. Songs can be added to the playlist. To add song to the playlist press rightmost icon which is available on particular song/track.
 
-
-![Alt Text](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/search.gif)
+![Alt Text](https://github.com/GuptaRaghav/OlaChallenge/blob/master/playlistsongs.gif)
 
 5. It also gives best songs suggestion based on random values i.e. randomly selecting best song from the list of available song for eg. if there are n no of songs available then it can select m no of songs randomly and add them to best songs.
  
@@ -83,4 +82,4 @@ Developed this app in Ola Play studio hackathon organised by Ola in association 
    }
 ]
    ``` 
-7. [APK](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/Demo.apk)
+7. [APK](https://github.com/GuptaRaghav/OlaChallenge/blob/master/app-debug.apk)
