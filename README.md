@@ -1,4 +1,4 @@
-# ThoughtworksChallenge
+# OlaChallenge
 Developed this app in Ola Play studio hackathon organised by Ola in association with Hackerearth
 
 1. Search Bar searches song based on keyword entered
@@ -17,130 +17,70 @@ Developed this app in Ola Play studio hackathon organised by Ola in association 
 
 5. It also gives best songs suggestion based on random values i.e. randomly selecting best song from the list of available song for eg. if there are n no of songs available then it can select m no of songs randomly and add them to best songs.
  
-5. [Data API](http://starlord.hackerearth.com/beercraft)
+5. [Data API](http://starlord.hackerearth.com/studio)
 6. Sample Data 
 ```
-[
-   {
-      "abv":"0.05",
-      "ibu":"",
-      "id":1436,
-      "name":"Pub Beer",
-      "style":"American Pale Lager",
-      "ounces":12.0
+[  
+   {  
+      "song":"Afreen Afreen",
+      "url":"http://hck.re/Rh8KTk",
+      "artists":"Rahat Fateh Ali Khan, Momina Mustehsan",
+      "cover_image":"http://hck.re/kWWxUI"
    },
-   {
-      "abv":"0.06",
-      "ibu":"",
-      "id":2265,
-      "name":"Devils Cup",
-      "style":"American Pale Ale (APA)",
-      "ounces":12.0
+   {  
+      "song":"Aik Alif",
+      "url":"http://hck.re/ZeSJFd",
+      "artists":"Saieen Zahoor, Noori",
+      "cover_image":"http://hck.re/3Cm0IX"
    },
-   {
-      "abv":"0.07",
-      "ibu":"",
-      "id":2264,
-      "name":"Rise of the Phoenix",
-      "style":"American IPA",
-      "ounces":12.0
+   {  
+      "song":"Tajdar e haram",
+      "url":"http://hck.re/wxlUcX",
+      "artists":"Atif Aslam",
+      "cover_image":"http://hck.re/5dh4D5"
    },
-   {
-      "abv":"0.09",
-      "ibu":"",
-      "id":2263,
-      "name":"Sinister",
-      "style":"American Double / Imperial IPA",
-      "ounces":12.0
+   {  
+      "song":"Aaj Rung",
+      "url":"http://hck.re/H5nMm3",
+      "artists":"Amjad Sabri,  Rahat Fateh Ali Khan",
+      "cover_image":"http://hck.re/U1bRnt"
    },
-   {
-      "abv":"0.07",
-      "ibu":"",
-      "id":2262,
-      "name":"Sex and Candy",
-      "style":"American IPA",
-      "ounces":12.0
+   {  
+      "song":"Ae dil",
+      "url":"http://hck.re/2nCncK",
+      "artists":"Ali Zafar, Sara Haider",
+      "cover_image":"http://hck.re/eLtjUb"
    },
-   {
-      "abv":"0.07",
-      "ibu":"",
-      "id":2261,
-      "name":"Black Exodus",
-      "style":"Oatmeal Stout",
-      "ounces":12.0
+   {  
+      "song":"Man Amadeh am",
+      "url":"http://hck.re/epOzj9",
+      "artists":"Atif Aslam, Gul Panrra",
+      "cover_image":"http://hck.re/KvT2Vv"
    },
-   {
-      "abv":"0.04",
-      "ibu":"",
-      "id":2260,
-      "name":"Lake Street Express",
-      "style":"American Pale Ale (APA)",
-      "ounces":12.0
+   {  
+      "song":"Bewajah",
+      "url":"http://hck.re/YkbDDP",
+      "artists":"Nabeel Shaukat Ali",
+      "cover_image":"http://hck.re/N29EEt"
    },
-   {
-      "abv":"0.06",
-      "ibu":"",
-      "id":2259,
-      "name":"Foreman",
-      "style":"American Porter",
-      "ounces":12.0
+   {  
+      "song":"Dinae Dinae",
+      "url":"http://hck.re/dMquYY",
+      "artists":"Harshadeep Kaur",
+      "cover_image":"http://hck.re/6l9QqH"
    },
-   {
-      "abv":"0.05",
-      "ibu":"",
-      "id":2258,
-      "name":"Jade",
-      "style":"American Pale Ale (APA)",
-      "ounces":12.0
+   {  
+      "song":"Tera woh pyar",
+      "url":"http://hck.re/64Tzod",
+      "artists":"Momina Mustehsan, Asim Azhar",
+      "cover_image":"http://hck.re/rlYqJY"
    },
-   {
-      "abv":"0.08",
-      "ibu":"",
-      "id":2131,
-      "name":"Cone Crusher",
-      "style":"American Double / Imperial IPA",
-      "ounces":12.0
-   },
-   {
-      "abv":"0.07",
-      "ibu":"",
-      "id":2099,
-      "name":"Sophomoric Saison",
-      "style":"Saison / Farmhouse Ale",
-      "ounces":12.0
-   },
-   {
-      "abv":"0.07",
-      "ibu":"",
-      "id":2098,
-      "name":"Regional Ring Of Fire",
-      "style":"Saison / Farmhouse Ale",
-      "ounces":12.0
-   },
-   {
-      "abv":"0.06",
-      "ibu":"",
-      "id":2097,
-      "name":"Garce Selé",
-      "style":"Saison / Farmhouse Ale",
-      "ounces":12.0
-   },
-   {
-      "abv":"0.08",
-      "ibu":"",
-      "id":1980,
-      "name":"Troll Destroyer",
-      "style":"Belgian IPA",
-      "ounces":12.0
-   },
-   {
-      "abv":"0.06",
-      "ibu":"60",
-      "id":1979,
-      "name":"Bitter Bitch",
-      "style":"American Pale Ale (APA)",
-      "ounces":12.0
+   {  
+      "song":"Shamaan Pai gaiyan",
+      "url":"http://hck.re/VhtQGh",
+      "artists":"Rachel Viccaji, Kashif Ali",
+      "cover_image":"http://hck.re/gs0grk"
    }
-   ]
+]
    ``` 
 7. [APK](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/Demo.apk)
